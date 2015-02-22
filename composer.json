@@ -2,8 +2,7 @@
     "name": "voj",
     "require": {
         "php": ">=5.3",
-        "silex/silex": "~1.1",
-        "guzzlehttp/guzzle": "~5.0"
+        "silex/silex": "~1.1"
     },
     "extra": {
         "heroku": {
